@@ -40,7 +40,7 @@ Project roles (e.g., lead, developer, QA, PM) are clearly documented, along with
 
 ## How to Contribute
 
-To suggest additions or updates to any of these documents, please use the [Add Content to Project Management Process Docs](.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) issue template to open a new issue describing the change you'd like to make. Once your issue has been reviewed, open a pull request against the `main` branch with your proposed changes.
+To suggest additions or updates to any of these documents, please use the [Add Content to Project Management Process Docs](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) issue template to open a new issue describing the change you'd like to make. Once your issue has been reviewed, open a pull request against the `main` branch with your proposed changes.
 
 ---
 
